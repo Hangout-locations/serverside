@@ -1,1 +1,2 @@
-it's like Airbnb but for only hangout locations finding and booking
+it's like an Airbnb but for finding and booking only hangout locations
+
